@@ -8,6 +8,6 @@ The restart boolean is only there because i am figuring out how to restart the p
 
 the things I have managed to implement for right now is:
 
-the game
-a score count
+the game,
+a score count,
 a spelling check 
